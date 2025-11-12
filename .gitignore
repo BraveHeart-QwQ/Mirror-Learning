@@ -40,6 +40,7 @@ Output/
 bin/
 .vs/
 .vscode/
+.VSCodeCounter/
 .idea/
 Mirror/packages
 .mfractor
